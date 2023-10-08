@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book>
+    <title lang="en">Learning XML</title>
+    <author>John Doe</author>
+    <year>2003</year>
+    <price>39.95</price>
+  </book>
+  <book>
+    <title lang="en">XML for Dummies</title>
+    <author>Jane Doe</author>
+    <year>2005</year>
+    <price>29.95</price>
+  </book>
+  <book>
+    <title lang="zh">XML入门</title>
+    <author>张三</author>
+    <year>2010</year>
+    <price>49.95</price>
+  </book>
+</bookstore>

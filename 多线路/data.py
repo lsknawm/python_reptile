@@ -1,0 +1,3 @@
+data = {
+    'id': 1506232, 'prodName': '郁金香', 'prodCatid': 1187, 'prodCat': '水果', 'prodPcatid': None, 'prodPcat': '葡萄类', 'lowPrice': '7.0', 'highPrice': '7.5', 'avgPrice': '7.25', 'place': '', 'specInfo': '茉莉香', 'unitInfo': '斤', 'pubDate': '2023-09-24 00:00:00', 'status': None, 'userIdCreate': 138, 'userIdModified': None, 'userCreate': 'admin', 'userModified': None, 'gmtCreate': None, 'gmtModified': None
+}
