@@ -16,5 +16,10 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
+def ary():
     for item in range(100):
         print(item ** random.randint(1,100))
+        print(item ** random.randint(1,100))
+        print(item ** random.randint(1,100))
+        print(item ** random.randint(1,100))
+ary()
