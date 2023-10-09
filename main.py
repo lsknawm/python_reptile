@@ -22,4 +22,5 @@ def ary():
         print(item ** random.randint(1,100))
         print(item ** random.randint(1,100))
         print(item ** random.randint(1,100))
+        print('pull commit')
 ary()
